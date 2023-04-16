@@ -1,7 +1,7 @@
 # campaign
 
 Questo progetto è volto alla creazione di un gioco di ruolo multiplayer basato sullo svolgimento di campagne di avventura all'interno di un mondo fantastico.
-Il mondo è caratteizzato dall'esistenza degli avventurieri, i giocatori, e le creature, i personaggi non giocanti.
+Il mondo è caratteizzato dall'esistenza degli avventurieri, ovvero i giocatori, e le creature, ovvero i personaggi non giocanti.
 
 ## Installation
 
